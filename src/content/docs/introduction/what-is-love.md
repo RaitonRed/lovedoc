@@ -26,3 +26,11 @@ Before trying to define love, it helps to clear a few misunderstandings:
 ## The Truth
 
 There may never be a perfect definition of love.
+Words can only circle around it, never fully capture it.
+
+But that’s okay.
+
+Maybe love isn’t something to *explain*.  
+Maybe it’s something to *experience*, *nurture*, and *protect*.
+
+And this documentation is simply a way to **honor that experience**.
