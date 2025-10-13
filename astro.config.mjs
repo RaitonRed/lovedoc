@@ -7,11 +7,15 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Love Documention',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
+			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/RaitonRed/lovedoc' }],
 			sidebar: [
 				{
 					label: "Introduction",
-					autogenerate: { directory: 'introduction' },
+					items: [
+						{ label: 'Before we Begin', slug: 'introduction/before-we-begin' },
+						{ label: 'What is love', slug: 'introduction/what-is-love' },
+						{ label: 'Stages of Love', slug: 'introduction/stages-of-love' }
+					]
 				},
 				{
 					label: 'Guides',
